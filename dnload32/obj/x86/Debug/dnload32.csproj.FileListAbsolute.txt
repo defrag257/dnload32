@@ -1,0 +1,5 @@
+D:\Users\pc\Documents\Visual Studio 2008\Projects\dnload32\dnload32\bin\x86\Debug\dnload32.exe
+D:\Users\pc\Documents\Visual Studio 2008\Projects\dnload32\dnload32\bin\x86\Debug\dnload32.pdb
+D:\Users\pc\Documents\Visual Studio 2008\Projects\dnload32\dnload32\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\pc\Documents\Visual Studio 2008\Projects\dnload32\dnload32\obj\x86\Debug\dnload32.exe
+D:\Users\pc\Documents\Visual Studio 2008\Projects\dnload32\dnload32\obj\x86\Debug\dnload32.pdb
